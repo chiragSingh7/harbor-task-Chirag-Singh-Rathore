@@ -1,0 +1,12 @@
+[
+  {"service": "web", "start_minute": 10, "end_minute": 30, "status": "approved"},
+  {"service": "api", "start_minute": 50, "end_minute": 80, "status": "approved"},
+  {"service": "web", "start_minute": 0, "end_minute": 10, "status": "approved"},
+  {"service": "api", "start_minute": 10, "end_minute": 20, "status": "pending"},
+  {"service": "web", "start_minute": 25, "end_minute": 40, "status": "approved"},
+  {"service": "worker", "start_minute": 5, "end_minute": 15, "status": "rejected"},
+  {"service": "api", "start_minute": 75, "end_minute": 100, "status": "approved"},
+  {"service": "api", "start_minute": 120, "end_minute": 150, "status": "approved"},
+  {"service": "web", "start_minute": 60, "end_minute": 70, "status": "approved"},
+  {"service": "web", "start_minute": 65, "end_minute": 90, "status": "approved"}
+]
