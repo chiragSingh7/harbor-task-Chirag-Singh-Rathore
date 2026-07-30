@@ -98,7 +98,7 @@ Expected result:
 All checks passed!
 ```
 
-![Ruff Output](harbor_tasks/screenshots/ruff_checks.png)
+![Ruff Output](harbor_tasks/screenshots/Ruff.png)
 
 ---
 
